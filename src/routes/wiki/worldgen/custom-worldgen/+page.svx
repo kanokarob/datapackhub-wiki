@@ -3,7 +3,7 @@ title: Custom World Generation
 description:
   This guide goes over how to create every step of a custom dimension, which
   includes custom biomes, terrain, and features.
-version: 1.21.8
+version: 26.3
 ---
 
 # Custom World Generation
